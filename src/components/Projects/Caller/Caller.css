@@ -1,0 +1,22 @@
+.all{
+    height: 600px;
+    width: 700px;
+    background-image: url('images/3665438.jpg');
+    background-size: cover;
+    margin-left: 300px; 
+}
+.call{
+    height: 130px;
+    width: 300px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    margin-left: 200px;
+    font-size: 20px;
+}
+.icons{
+    font-size: 40px;
+}
+.id1, .id2{
+    margin-left: 100px;
+}
