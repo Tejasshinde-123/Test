@@ -1,13 +1,14 @@
-import React from 'react'
-
-import Caller from './components/Projects/Caller/Caller'
-import ChatApp from './components/Projects/Chatapp/ChatApp'
+import React from 'react';
+import Carasol from './components/Growmore/Carasol/Carasol';
 
 
-export default function App() {
+
+const App = () => {
   return (
-    <div>
-      <Caller/>
+    <div className="container mx-auto mt-8">
+      <Carasol  />
     </div>
-  )
-}
+  );
+};
+
+export default App;
